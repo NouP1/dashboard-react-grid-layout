@@ -1,4 +1,9 @@
 # React Grid Dashboard — UI-интерфейс управления задачами
+<img width="1882" height="845" alt="image" src="https://github.com/user-attachments/assets/4c69ec43-a7a4-4e28-bf43-b9f8d63001b6" />
+<img width="1777" height="855" alt="image" src="https://github.com/user-attachments/assets/630bc70c-d07d-44d2-beca-769ac242ca96" />
+<img width="1778" height="903" alt="image" src="https://github.com/user-attachments/assets/8674c049-888e-4c52-b592-37f8b2336387" />
+
+
 
 ## Развернутая онлайн весрия 👀
 https://noup1.github.io/dashboard-react-grid-layout/
